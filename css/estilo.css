@@ -1,0 +1,79 @@
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(231, 231, 231);
+  }
+  
+  .form {
+    width: 350px;
+    background-color: rgb(83, 26, 156);
+    color: white;
+    border-radius: 10px;
+  }
+  
+ .btnRegistrar{
+      border-radius: 8px;
+ }
+ .registrado{
+     
+       background-color: rgb(155, 107, 218);
+       text-decoration: none;
+ }
+
+ .acciones{
+        text-align: right;
+ }
+ 
+ 
+ .btnentrar{
+   background-color: rgb(83, 26, 156);
+ }
+
+ .reg{
+       margin-top: 5px;
+ }
+ .footer{
+        background-color: rgb(77, 43, 121);
+ }
+
+ .menu {
+    background-color:  rgb(77, 43, 121);
+     padding: 10px;
+     text-align: left;
+    
+ }
+ 
+ .menu a{
+  text-decoration: none;
+  font-size: 26px;
+  padding: 10px;
+  color: white;
+  border: 10px;
+ }
+ .menu :hover{
+  background-color: white;
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+ }
+
+ .n{
+  background-color: rgb(77, 43, 121);
+  
+ }
+ .fecha{
+    font-size: smaller;
+ }
+.btnfondo{
+   background-color: mediumslateblue;
+   color: rgb(241, 247, 245);
+}
+.ttx{
+  color: aliceblue;
+}
+.btnleer{
+    background-color: blueviolet;
+}
+
